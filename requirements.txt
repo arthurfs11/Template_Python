@@ -1,0 +1,10 @@
+dateUts==0.2.7
+iniUts==1.1.2
+loguru==0.7.2
+psutil==5.9.6
+psycopg2==2.9.6
+requests==2.31.0
+schedule==1.1.0
+selenium==4.15.2
+undetected-chromedriver==3.5.3
+urllib3==2.1.0
